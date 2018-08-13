@@ -1,0 +1,472 @@
+Phase,NO,CATEGORY,State,SCHOOL
+1,1,SM,,"SMS Tengku Muhammad Faris Petra, Kelantan"
+1,2,SR,,"SK Zainab 2, Kelantan"
+1,3,SM,,"Tunku Kurshiah College, Negeri Sembilan"
+1,4,SM,,"Malay College Kuala Kangsar, Perak"
+1,5,SM,,"SMK Derma, Perlis"
+1,6,SM,,"Sultan Alam Shah Islamic College, Selangor"
+1,7,SM,,"SMK Sultan Sulaiman, Terengganu"
+1,8,SM,,"SMK Convent Bukit Nanas, Kuala Lumpur"
+1,9,SM,,"SMK St John, Kuala Lumpur"
+1,10,SM,,"SMK Victoria, Kuala Lumpur"
+1,11,SM,,"Sultan Alam Shah School, Selangor"
+1,12,SR,,"SK Infant Jesus Convent, Melaka"
+1,13,SM,,"SMK Sultanah Asma, Kedah"
+1,14,SR,,"SJKC Keat Hwa (H), Kedah"
+1,15,SM,,"SMKA Sharifah Rodziah, Melaka"
+1,16,SM,,"SM Teknik Tuanku Jaafar, Negeri Sembilan"
+1,17,SM,,"SMK Abdul Rahman Talib, Perak"
+1,18,SM,,"SMK Gunung Rapat, Perak"
+1,19,SR,,"SK Sultan Idris 2, Perak"
+1,20,SM,,"SMK Penang Free, Penang"
+1,21,SM,,"SMKA Al-Mashoor (L), Penang"
+1,22,SM,,"SM Vokasional Tawau, Sabah"
+1,23,SR,,"SK Sri Gaya, Sabah"
+1,24,SM,,"SMK (P) Sri Aman, Selangor"
+1,25,SR,,"SJKT Simpang Lima, Selangor"
+1,26,SM,,"SMKA Sheikh Abdul Malek, Terengganu"
+1,27,SM,,"SMK Aminuddin Baki, Kuala Lumpur"
+1,28,SR,,"SK Pengkalan Tereh, Johor"
+1,29,SR,,"SKPK Alma (Visibility), Penang"
+1,30,SR,,"SK Ulu Lubai, Sarawak"
+2,1,SM,,"Tun Fatimah School, Johor"
+2,2,SM,,"SMS Muzaffar Syah, Melaka"
+2,3,SM,,"Dato 'Abdul Razak School, Negeri Sembilan"
+2,4,SM,,"SMK King George V, Negeri Sembilan"
+2,5,SR,,"SK (P) Methodist, Kuala Lumpur"
+2,6,SM,,"SMJK Ave Maria Convent, Perak"
+2,7,SM,,"SMK (P) St. George, Penang"
+2,8,SM,,"SM Sains Kuching, Sarawak"
+2,9,SM,,"Datu Patinggi College Abang Haji Abdillah, Sarawak"
+2,10,SM,,"Seri Puteri School, Selangor"
+2,11,SM,,"SM Agama Persekutuan Kajang, Selangor"
+2,12,SM,,"SMK (L) Methodist, Kuala Lumpur"
+2,13,SM,,"SMK Sultan Ismail, Johor"
+2,14,SR,,"SJKT Masai, Johor"
+2,15,SR,,"SK Sultan Ahmad Tajuddin, Kedah"
+2,16,SM,,"SMK Dato 'Ahmad Maher, Kelantan"
+2,17,SM,,"High School Female Melaka, Melaka"
+2,18,SM,,"SMKA Sheikh Hj Mohd Said, Negeri Sembilan"
+2,19,SR,,"SK Puteri, Negeri Sembilan"
+2,20,SM,,"SMK Raja Permaisuri Bainun, Perak"
+2,21,SR,,"SK Sena, Perlis"
+2,22,SM,,"SM High Kota Kinabalu, Sabah"
+2,23,SR,,"SJKC Lick Hung, Selangor"
+2,24,SM,,"SMK Tengku Mahmud, Terengganu"
+2,25,SR,,"SK Tengku Ampuan Intan, Terengganu"
+2,26,SR,,SK Setiawangsa
+2,27,SM,,"Bukit Jalil Sports School, Kuala Lumpur"
+2,28,SM,,SM Technical Kuala Lumpur
+2,29,SR,,"SK Bandar 2, Paloh Hinai, Pahang"
+2,30,SM,,"SMK Desa Kencana, Sabah"
+3,1,SM,,"Maktab Sultan Abu Bakar, Johor"
+3,2,SM,,"SMK (P) Sultan Ibrahim, Johor"
+3,3,SM,,"SMK Infant Jesus Convent, Johor"
+3,4,SM,,"SMJK Sin Min (CF), Kedah"
+3,5,SM,,"SM Science Machang, Kelantan"
+3,6,SM,,"Maktab Sultan Ismail, Kelantan"
+3,7,SM,,"SMK Zainab (1), Kelantan"
+3,8,SM,,"SMK Tinggi Melaka, Melaka"
+3,9,SM,,"SMS Tg Abdullah, Pahang"
+3,10,SM,,"Science of Sultan Hj Ahmad Shah, Pahang"
+3,11,SM,,"Tuanku Abdul Rahman School, Perak"
+3,12,SR,,"SK Convent Kota, Taiping, Perak"
+3,13,SM,,"SM Sains Teluk Intan, Perak"
+3,14,SM,,"SM Sains Raja Tun Azlan Shah, Perak"
+3,15,SM,,"SMS Tuanku Syed Putra, Kangar, Perlis"
+3,16,SR,,"SK Bagan Jermal, Penang"
+3,17,SM,,"SMK Methodist Sibu, Sarawak"
+3,18,SR,,"SK St. Mary, Sarawak"
+3,19,SM,,"SMS Hulu Selangor, Selangor"
+3,20,SM,,"SM Science Sultan Mahmud, Terawatu"
+3,21,SM,,"SMS Selangor, Kuala Lumpur"
+3,22,SR,,"SK Bandar Baru Uda 2, Johor"
+3,23,SM,,"SM Teknik Perdagangan, Johor"
+3,24,SR,,"SK Tengku Mariam, Johor"
+3,25,SM,,"SMK Jitra, Kedah"
+3,26,SM,,"SMK Dato 'Syed Ahmad, Kedah"
+3,27,SM,,"SMK Sik, Kedah"
+3,28,SM,,"SM Teknik Alor Setar, Kedah"
+3,29,SR,,"SK St. Anne's Convent, Kedah"
+3,30,SM,,"SMKA Naim Lil-Banat, Kelantan"
+3,31,SM,,"SMKA Wataniah Machang, Kelantan"
+3,32,SM,,"SMK Ghafar Baba, Melaka"
+3,33,SR,,"SJKC Yok Bin, Melaka"
+3,34,SM,,"SMK Puteri, Negeri Sembilan"
+3,35,SM,,"SMK Clifford, Pahang"
+3,36,SR,,SJKT Mentakab
+3,37,SM,,"SMK Raja Perempuan, Perak"
+3,38,SM,,"SMKA Sultan Azlan Shah, Perak"
+3,39,SR,,"SK Kg Jambu, Perak"
+3,40,SM,,"SMK Dato 'Sheikh Ahmad, Perlis"
+3,41,SM,,"SMK Permatang Tok Jaya, Penang"
+3,42,SM,,"SMKA Al-Irshad, Penang"
+3,43,SM,,"SMK Datuk Peter Mojuntin, Sabah"
+3,44,SR,,"SJKC Tung Hua, Sibu, Sarawak"
+3,45,SM,,"SMK Lutong, Sarawak"
+3,46,SM,,SMK Damansara Utama
+3,47,SR,,"SK Sultan Sulaiman 1, Terengganu"
+3,48,SM,,"SMK Seri Bintang Selatan, Kuala Lumpur"
+3,49,SM,,"SMK Putrajaya Presint 8 (1), Putrajaya"
+3,50,SR,,"SK Putrajaya Presint 9 (1), Putrajaya"
+3,51,SM,,"SMPK Vokasional Indahpura, Johor"
+3,52,SR,,"SKPK Princess Elizabeth JB, Johor"
+3,53,SR,,"SK Bukit Rokan Utara (F), Negeri Sembilan"
+3,54,SM,,"SMK Seri Jengka, Pahang"
+3,55,SM,,"SMV Sultan Hj. Ahmad Shah, Pahang"
+3,56,SM,,"SMK Terusan Sugut, Sabah"
+3,57,SR,,"SK Lingga Baru, Sabah"
+3,58,SR,,"SK Ba 'Kelalan, Sarawak"
+3,59,SR,,"SK Jalan Tiga, Selangor"
+3,60,SR,,"SK Sri Langat, Selangor"
+4,1,SM,,"Johor Science Secondary School, Johor"
+4,2,SM,,"SMJK Keat Hwa, Kedah"
+4,3,SM,,"SMK Infant Jesus Convent (M), Melaka"
+4,4,SM,,"SMS Tuanku Jaafar, Negeri Sembilan"
+4,5,SM,,"SMSP Federal Labu, Negeri Sembilan"
+4,6,SM,,"SBPI Jempol, Negeri Sembilan"
+4,7,SM,,"SMK Convent Taiping, Perak"
+4,8,SM,,"SBPI Gopeng, Perak"
+4,9,SM,,"SMK Convent Green Lane, Penang"
+4,10,SM,,"SMS Sabah, Sabah"
+4,11,SM,,"SBPI Sabak Bernam, Selangor"
+4,12,SM,,"SMK Dato 'Penggawa Barat, Johor"
+4,13,SM,,"SM Teknik Johor Bahru, Johor"
+4,14,SR,,"SJKT Ladang Pamol, Johor"
+4,15,SM,,"SMK Ismail Petra (Integration), Kelantan"
+4,16,SM,,"SMK Agama Lati, Kelantan"
+4,17,SR,,"SK Seri Wakaf Bharu, Kelantan"
+4,18,SR,,"SK Paya Rumput, Melaka"
+4,19,SM,,"SMK Sultanah Hajjah Kalsom, Pahang"
+4,20,SM,,"SMK Seri Pekan, Pahang"
+4,21,SR,,"SK Seri Ampang, Perak"
+4,22,SR,,"SK Agama (MIS) Miri, Sarawak"
+4,23,SM,,"Bestari Religion Secondary School, Selangor"
+4,24,SR,,"SK Taman Megah, Selangor"
+4,25,SR,,"SK Tengku Mahmud, Terangganu"
+4,26,SM,,"SMK Seri Bintang Utara, Kuala Lumpur"
+4,27,SR,,"SJKC Jalan Davidson, Kuala Lumpur"
+4,28,SR,,"SK St. Anne's Convent, Labuan"
+4,29,SR,,"SK Mantob, Sabah"
+4,30,SR,,"SK Perancangan Ranau, Sabah"
+5,1,SM,,"SM Sains Kota Tinggi, Johor"
+5,2,SR,,"SK (P) Sultan Ibrahim, Johor"
+5,3,SM,,"SM Science Sultan ISKandar, Johor"
+5,4,SM,,"SMK (P) Temenggong Ibrahim, Johor"
+5,5,SM,,"SM Sains Pokok Sena, Kedah"
+5,6,SM,,"SM Science Pasir Puteh, Kelantan"
+5,7,SR,,"SK Zainab (1), Selantan"
+5,8,SR,,"SK Convent Infant Jesus (2), Melaka"
+5,9,SR,,"SK Assunta Convent (M), Pahang"
+5,10,SM,,"SBPI Temerloh, Pahang"
+5,11,SM,,"SBPI Kuantan, Pahang"
+5,12,SR,,"SK Marian Convent, Perak"
+5,13,SM,,"SMJK Jit Sin (CF), Penang"
+5,14,SM,,"SBPI Rawang, Selangor"
+5,15,SM,,"SMK Katholik (M), Selangor"
+5,16,SM,,"SM Science Kuala Terengganu, Terengganu"
+5,17,SM,,"SBPI Batu Rakit, Terengganu"
+5,18,SM,,"SM Science Labuan (SMSL), Labuan"
+5,19,SM,,"SMK Bandar Putra, Jonor"
+5,20,SM,,"SMK Mohd Khalid, Johor"
+5,21,SM,,"SMKA Maahad Muar, Johor"
+5,22,SM,,"SMK Sultan Badlishah, Kedah"
+5,23,SM,,"SMK Ibrahim, Kedah"
+5,24,SM,,"SMK Agama Sik, Kedah"
+5,25,SM,,"SMK Kubang Bemban, Kelantan"
+5,26,SM,,"SMK (A) Tok Bachok, Kelantan"
+5,27,SM,,"SMKA Melor, Kelantan"
+5,28,SR,,"SK Pulapah, Negeri Sembilan"
+5,29,SM,,"SMK Sultan Abu Bakar, Pahang"
+5,30,SR,,"SJK (T) Ringlet, Pahang"
+5,31,SR,,"SJK (C) Ave Maria Convent, Perak"
+5,32,SM,,"SMK Bukit Jambul, Penang"
+5,33,SM,,"SMK Dato 'Onn, Penang"
+5,34,SM,,"SMKA Nibong Tebal, Penang"
+5,35,SM,,"Tun Datu Tuanku Hj Bujang College, Sarawak"
+5,36,SR,,"SK Religion Datuk Hj. Abdul Kadir Hasan, Sarawak"
+5,37,SM,,"SMK USJ 12, Selangor"
+5,38,SM,,"SMKA Maahad Hamidiah, Selangor"
+5,39,SM,,"College of Science Pend. Terengganu Islamic State (SM Imtiaz), Terengganu"
+5,40,SM,,"SMK Mak Lagam, Terengganu"
+5,41,SM,,"High School (Upper) Sultan Zainal Abidin, Terengganu"
+5,42,SR,,"SK Rantau Petronas, Terengganu"
+5,43,SR,,"SK Seri Berang, Terengganu"
+5,44,SR,,"SK Penggu, Kelantan"
+5,45,SR,,"SK Tempoyang, Pahang"
+5,46,SR,,"Don Bosco SRK, Sabah"
+5,47,SR,,"SK Paon Temaga, Sarawak"
+5,48,SR,,"SK Dusun, Terengganu"
+6,1,SM,,"SMK (P) Sultan Abu Bakar, Johor"
+6,2,SM,,"SMK High Kluang, Johor"
+6,3,SM,,"SM Science Sultan Mohamad Jiwa, Kedah"
+6,4,SR,,"SK Convent Infant Jesus (1), Melaka"
+6,5,SM,,"SM Science Sultan Haji Ahmad Shah, Pahang"
+6,6,SR,,"SK Minden Height, Pulau Pinang"
+6,7,SM,,"SM Science Dungun, Terengganu"
+6,8,SM,,"SMK Alor Akar, Pahang"
+6,9,SR,,"SK Seri Indera, Perlis"
+6,10,SR,,"SJKC Kwang Hwa, Penang"
+6,11,SR,,"SK Agama Sibu, Sarawak"
+6,12,SR,,"SK USJ 2, Selangor"
+6,13,SM,,"SMK Seafield, Selangor"
+6,14,SR,,"SK Taman Bukit Maluri, Kuala Lumpur"
+6,15,SR,,"SK Seliau, Negeri Sembilan"
+7,1,SR,,"SK Saint Thomas, Pahang"
+7,2,SM,,"SMJK Chung Ling Butterworth, Penang"
+7,3,SM,,SMJK Chung Ling Pulau Pinang
+7,4,SR,,"SK St Teresa (M), Sarawak"
+7,5,SM,,"SMK Chukai, Terengganu"
+7,6,SR,,"SK Kuala Berang, Terengganu"
+7,7,SR,,"SK Paka Ii, Terengganu"
+7,8,SR,,"SK Convent (2) Bukit Nanas, Kuala Lumpur"
+7,9,SM,,"SMK Dato 'Penggawa Timur, Johor"
+7,10,SM,,"SMK Seri Kenangan, Johor"
+7,11,SM,,SMKA Segamat Johor
+7,12,SM,,"SMKA Bandar Penawar, Johor"
+7,13,SM,,"SMK Tinggi Batu Pahat, Johor"
+7,14,SM,,"SMK Tun Habab, Johor"
+7,15,SR,,"SK Taman Rinting 2, Johor"
+7,16,SR,,"SK Complex Sultan Abu Bakar, Johor"
+7,17,SR,,"SK Seri Tebrau, Johor"
+7,18,SM,,"SMKA Kedah, Kedah"
+7,19,SR,,"SJK (C) Keat Hwa (S), Kedah"
+7,20,SR,,"SK Kubang Kerian 3, Kelantan"
+7,21,SR,,"SK Datu 'Hashim 1, Kelantan"
+7,22,SR,,"SK Seremban 2B, Negeri Sembilan"
+7,23,SM,,"SMK Seri Tualang, Pahang"
+7,24,SM,,"SMK Sulaiman, Pahang"
+7,25,SR,,"SJK (C) Kong Min, Pahang"
+7,26,SR,,"SK Perempuan Methodist, Perak"
+7,27,SM,,"SMKa (P) Alawiyah Kangar, Perlis"
+7,28,SR,,"SJK (C) Shih Chung Branch, Penang"
+7,29,SR,,"SK Religion (MIS) Bintulu, Sarawak"
+7,30,SM,,"SMK Damansara Jaya, Selangor"
+7,31,SM,,"SMKa Kuala Selangor, Selangor"
+7,32,SM,,"SMK Bandar Utama Damansara 3, Selangor"
+7,33,SR,,"SK Bukit Jelutong, Selangor"
+7,34,SR,,"SK Subang Jaya, Selangor"
+7,35,SR,,"Section 13, Selangor"
+7,36,SM,,"SM Imtiaz Dungun, Terengganu"
+7,37,SM,,"SM Imtiaz Kuala Berang, Terengganu"
+7,38,SM,,"SMK Tengku Intan Zaharah, Terengganu"
+7,39,SM,,"SMKa Tok Jiring, Terengganu"
+7,40,SR,,"SK Kampung Fikri (Sg Tong), Terengganu"
+7,41,SR,,"SJKT Ladang Rem, Johor"
+7,42,SR,,"SK Kamil (3), Kelantan"
+7,43,SR,,"SK Kamil (2), Kelantan"
+7,44,SR,,"SK Chengkau, Negeri Sembilan"
+7,45,SR,,"SK Tapak, Negeri Sembilan"
+7,46,SM,,"SMK Tun Razak Agricultural Research Center, Pahang"
+7,47,SR,,"SK Sentosa, Pahang"
+7,48,SR,,"SK (M) Bombalai Tawau, Sabah"
+7,49,SR,,"SK Lembah Beringin, Selangor"
+7,50,SR,,"SK Tepus, Terengganu"
+8,1,SK,,"SK Sungai Rokam, Ipoh, Perak"
+8,2,SK,,"SK Bagan Pasir, Selekoh, Perak"
+8,3,SK,,"SK Chikus, Langkap, Perak"
+8,4,SK,,"SK Teluk Kepayang, Bota, Perak"
+8,5,SK,,"SK Tarcisian Convent, Ipoh, Perak"
+8,6,SK,,"SK Methodist Parit Buntar, Perak"
+8,7,SK,,"SK Klian Pauh, Taiping, Perak"
+8,8,SK,,"SJK (T) Gerik, Gerik, Perak"
+8,9,SK,,"SK Bandar Baru Bangi, Bandar Baru Bangi, Selangor"
+8,10,SK,,"SK Saujana Impian, Kajang, Selangor"
+8,11,SK,,"SK Seafield, Subang Jaya, Selangor"
+8,12,SK,,"SK Seri Selangor, Subang Jaya, Selangor"
+8,13,SK,,"SK Bandar Anggerik, Shah Alam, Selangor"
+8,14,SK,,"SK Convent (1) (M), Klang, Selangor"
+8,15,SK,,"SK Convent (M), Kajang, Selangor"
+8,16,SK,,"SK Tuanku Fatimah, Bentong, Pahang"
+8,17,SK,,"SK Penjom, Kuala Lipis, Pahang"
+8,18,SK,,"SK Chat, Benta, Pahang"
+8,19,SK,,"SK Tunku Azizah, Kuantan, Pahang"
+8,20,SK,,"SK (Felda) Surfing 2, Muadzam Shah, Pahang"
+8,21,SK,,"SK Pekan Jaya, Pekan, Pahang"
+8,22,SK,,"SK Bandar Raub, Raub, Pahang"
+8,23,SK,,"SK Gunong Senyum, Kuala Krau, Pahang."
+8,24,SK,,"SK Bangau, Temerloh, Pahang"
+8,25,SK,,"SK Bandar Temerloh, Temerloh, Pahang"
+8,26,SK,,"SK (Lktp) Surfing 3, Muadzam Shah, Pahang"
+8,27,SK,,"SK Perempuan Methodist (M), Raub, Pahang"
+8,28,SK,,"SK Kubang Golok, Bachok, Kelantan"
+8,29,SK,,"SK Salor, Kota Bharu, Kelantan"
+8,30,SK,,"SK Bendang Pauh, Pasir Mas, Kelantan"
+8,31,SK,,"SK Sri Kiambang, Pasir Mas, Kelantan."
+8,32,SK,,"SK Sultan Ismail (1), Kota Bharu, Kelantan"
+8,33,SK,,"SK Sultan Ibrahim (1), Pasir Mas, Kelantan"
+8,34,SK,,"Tengku Amalin's Religious Primary School A'ishah Putri, Kota Bharu, Kelantan"
+8,35,SK,,"SK Seri Sabak Uni, Batu Pahat, Johor"
+8,36,SK,,"SK Pendas Laut, Johor Bahru, Johor"
+8,37,SK,,"SK Lepau, Kota Tinggi, Johor"
+8,38,SK,,"SK Parit Zain, Muar, Johor"
+8,39,SK,,"SK Serom 4, Muar, Johor"
+8,40,SK,,"SK Orangkaya Ali, Muar, Johor"
+8,41,SK,,"SK Parit Hj Adnan, Pontian, Johor"
+8,42,SK,,"SK Convent, Batu Pahat, Johor"
+8,43,SK,,"SK Tunku Mahmood 1, Kluang, Johor"
+8,44,SK,,"SK Canossian Convent (M), Kluang, Johor"
+8,45,SK,,"SK Sultan Abu Bakar (1), Muar, Johor"
+8,46,SK,,"SJK (C) Chung Hwa Presbyterian, Muar, Johor"
+8,47,SK,,"SJK (T) Mersing, Mersing, Johor"
+8,48,SK,,"SJK (T) Ladang Sg.Muar, Segamat, Johor"
+8,49,SK,,"SK Taman Rakyat, Alor Setar, Kedah"
+8,50,SK,,"SK Tasek Apong, Sungai Petani, Kedah"
+8,51,SK,,"SK Bukit Tinggi, Kepala Batas, Kedah"
+8,52,SK,,"SK Taman Hi-Tech, Kulim, Kedah"
+8,53,SK,,"SK Convent, Alor Setar, Kedah"
+8,54,SK,,"SJK (C) Keat Hwa (K), Alor Setar, Kedah"
+8,55,SK,,"SJK (C) Aik Min, Alor Setar, Kedah"
+8,56,SK,,"SK Berisu, Alor Gajah, Melaka"
+8,57,SK,,"SK Bukit Senggeh, Jasin, Melaka"
+8,58,SK,,"SK Chenderah, Jasin, Melaka"
+8,59,SK,,"SK Jalan Datuk Palembang, Bukit Baru, Melaka"
+8,60,SK,,"SJK (C) Bukit Beruang, Melaka"
+8,61,SK,,"SK Sungai Dua, Kuala Pilah, Negeri Sembilan"
+8,62,SK,,"SK Penajis, Rembau, Negeri Sembilan"
+8,63,SK,,"SK Seremban 2a, Seremban, Negeri Sembilan"
+8,64,SK,,"SK (Felda) Palong 1, Gemas, Negeri Sembilan"
+8,65,SK,,"SK King George V, Seremban, Negeri Sembilan"
+8,66,SK,,"SK Taman Senangan, Butterworth, Penang"
+8,67,SK,,"SK Jawi, Sungai Jawi, Penang"
+8,68,SK,,"SK Convent Bukit Mertajam, Penang"
+8,69,SK,,"SJK (C) Kai Chee, Butterworth, Penang"
+9,1,SM,JOHOR,Johor Bahru Art School
+9,2,SM,JOHOR,SMK Taman Nusa Damai
+9,3,SM,JOHOR,Muar High School
+9,4,SM,JOHOR,SMK Agama Johor Bahru
+9,5,SR,JOHOR,SK Gambut
+9,6,SR,JOHOR,SK Taman Selesa Jaya
+9,7,SR,JOHOR,SK Taman Universiti 1
+9,8,SR,JOHOR,SK Taman Mutiara Rini
+9,9,SR,JOHOR,SK Taman Pasir Putih
+9,10,SR,JOHOR,SK Bandar Penawar
+9,11,SR,JOHOR,SK (LKTP) Tenggaroh 4
+9,12,SR,JOHOR,SK (LKTP) Tenggaroh 6
+9,13,SR,JOHOR,SK (LKTP) Tenggaroh 1
+9,14,SR,JOHOR,SK Bukit Naning
+9,15,SR,JOHOR,SK Parit Latiff
+9,16,SR,JOHOR,SK Pengkalan Raja
+9,17,SR,JOHOR,SK (LKTP) Maokil 1
+9,18,SR,JOHOR,SK (LKTP) Sayong River (Integ.)
+9,19,SR,JOHOR,SK Bandar Tenggara 1
+9,20,SR,JOHOR,SK Temenggong Abdul Rahman 1
+9,21,SR,JOHOR,"SK Saint Joseph, Johor Bahru"
+9,22,SR,JOHOR,SK Tunku Mahmood 2
+9,23,SR,JOHOR,SK Jubli Intan
+9,24,SR,JOHOR,Sjk (C) Ai Chun 1
+9,25,SR,JOHOR,Sjk (C) Ai Chun 2
+9,26,SR,JOHOR,Sjkc Chian Kuo
+9,27,SR,JOHOR,Sjkc Khay Hian
+9,28,SR,JOHOR,Mount Austin Farm Area
+9,29,SR,JOHOR,Tajul Road
+9,30,SR,JOHOR,Sungai Papan Ladang River
+9,31,SR,JOHOR,Sjkt Kangkar Pulai
+9,32,SM,KEDAH,SMK Sultanah Bahiyah
+9,33,SR,KEDAH,SK Pegawai Jalan
+9,34,SR,KEDAH,SK Taman Uda
+9,35,SR,KEDAH,SK Hj Mohd Shariff
+9,36,SR,KEDAH,SK Father Barre's Convent
+9,37,SM,KELANTAN,SMK Dato Perdana
+9,38,SM,KELANTAN,SMK Kamil
+9,39,SM,KELANTAN,SMA Tengku Amalin A'ishah Putri
+9,40,SR,KELANTAN,SK Jelawat
+9,41,SR,KELANTAN,SK Bukit Panau
+9,42,SR,KELANTAN,SK Kubang Batang
+9,43,SR,KELANTAN,SK Seri Ketereh
+9,44,SR,KELANTAN,SK Sultan Yahya Petra 1
+9,45,SM,MELAKA,SMK ISKandar Shah
+9,46,SR,MELAKA,SK Kemuning
+9,47,SM,NEGERI SEMBILAN,SMKa Dato 'Hj. Abu Hassan Hj. Sail
+9,48,SR,NEGERI SEMBILAN,SK Linggi
+9,49,SR,NEGERI SEMBILAN,SK Undang Jelebu
+9,50,SR,NEGERI SEMBILAN,SK Port Dickson
+9,51,SR,NEGERI SEMBILAN,SK Tunku Besar Tampin
+9,52,SM,PAHANG,SMK Padang Saujana
+9,53,SM,PAHANG,SMK Datuk Bahaman
+9,54,SM,PAHANG,SMK Ahmad
+9,55,SM,PAHANG,SMA Al-Maarif
+9,56,SR,PAHANG,SK Wira
+9,57,SR,PAHANG,SK Temin
+9,58,SR,PAHANG,SK Inderapura
+9,59,SR,PAHANG,SK Wan Ibrahim
+9,60,SR,PAHANG,SK Kampung Acheh
+9,61,SR,PAHANG,SK Lake Cini
+9,62,SR,PAHANG,SK Sanggang Seberang
+9,63,SR,PAHANG,SK Bandar Tun Razak
+9,64,SR,PAHANG,SK City Center
+9,65,SR,PAHANG,Sjkc Bertam Valley
+9,66,SR,PAHANG,Sjkc Kuala Terla
+9,67,SM,PERAK,SMK Taman Tasik
+9,68,SM,PERAK,"SMK Perempuan Methodist, Ipoh"
+9,69,SM,PERAK,Smjk Sam Tet
+9,70,SR,PERAK,SK Syeikh Mohd Idris Al Marbawi
+9,71,SR,PERAK,SK Mahkota Sari
+9,72,SR,PERAK,SK Raja Perempuan
+9,73,SR,PERLIS,SK Malaysian Education Teachers Association Perlis
+9,74,SM,PENANG,SMK Seri Nibong
+9,75,SM,PENANG,Smjk Chinese Female of
+9,76,SR,PENANG,SK Sungai Dua
+9,77,SR,PENANG,SK Share
+9,78,SR,PENANG,SK Permatang Tok Mahat
+9,79,SR,PENANG,SK Saujana Indah
+9,80,SR,SABAH,SK Tilis
+9,81,SR,SABAH,"SK Ladang Binuang, Kunak"
+9,82,SR,SABAH,SK Mutiara
+9,83,SR,SABAH,SK Kilimu
+9,84,SR,SABAH,SK Lubok Darat
+9,85,SR,SABAH,SK Rimbaan
+9,86,SR,SABAH,SK St Monica
+9,87,SR,SABAH,"Srk St. Agnes, Likas"
+9,88,SR,SABAH,SK St Edmund (M)
+9,89,SM,SARAWAK,SMK Tinggi Sarikei
+9,90,SR,SARAWAK,SK Kuala Lawas
+9,91,SR,SARAWAK,SK Iboi Pelanduk
+9,92,SR,SARAWAK,SK Sebat
+9,93,SR,SARAWAK,SK Sungai Pinang
+9,94,SR,SARAWAK,"SK St. Joseph, Miri"
+9,95,SR,SARAWAK,SK (A) Ibn Khaldun
+9,96,SR,SARAWAK,"Sjk (C) Methodist (M), Sibu"
+9,97,SM,SELANGOR,SMKa Simpang Lima
+9,98,SM,SELANGOR,SMK Convent (M) Kajang
+9,99,SM,SELANGOR,Samt Sultan Hisamuddin
+9,100,SM,SELANGOR,Sam Hulu Langat
+9,101,SR,SELANGOR,SK Saujana Utama
+9,102,SR,SELANGOR,SK Puncak Alam Dua
+9,103,SR,SELANGOR,SK Jalan Empat
+9,104,SR,SELANGOR,SK Taman Puteri
+9,105,SR,SELANGOR,SK Seri Makmur
+9,106,SR,SELANGOR,SK Taman Melawati
+9,107,SR,SELANGOR,SK Taman Melawati Dua
+9,108,SR,SELANGOR,SK Bukit Rahman Putra
+9,109,SR,SELANGOR,SK Kelana Jaya 1
+9,110,SR,SELANGOR,SK Raja Muda
+9,111,SR,SELANGOR,SK Taman Tun Dr. ISMAIL Jaya
+9,112,SR,SELANGOR,SK Usj 20
+9,113,SR,SELANGOR,SK Taman Seroja
+9,114,SR,SELANGOR,SK Cyberjaya
+9,115,SR,SELANGOR,SK Klia
+9,116,SR,SELANGOR,SK Kuala Kubu Bharu Dua
+9,117,SR,SELANGOR,Sjkc Puay Chai 2
+9,118,SR,SELANGOR,Sjkc Tun Tan Cheng Lock
+9,119,SM,TERENGGANU,SMKa Wataniah
+9,120,SM,TERENGGANU,SMKa Kuala Abang
+9,121,SM,TERENGGANU,SMKa Durian Guling
+9,122,SR,TERENGGANU,SK Telok Kalong
+9,123,SR,TERENGGANU,SK Center Chabang Tiga
+9,124,SR,TERENGGANU,SK Tok Jiring
+9,125,SR,TERENGGANU,SK Kelulut
+9,126,SR,TERENGGANU,SK Seri Paka
+9,127,SR,TERENGGANU,SK Tapu
+9,128,SR,TERENGGANU,SK Lembah Jaya
+9,129,SR,TERENGGANU,SK Sultan Sulaiman Ii
+9,130,SM,W / P KUALA LUMPUR,Federal Territory Islamic Religious Council
+9,131,SM,W / P PUTRAJAYA,SMK Agama Putrajaya
+9,132,SR,W / P PUTRAJAYA,SK Putrajaya Presint 8 (2)
+9,133,SR,W / P PUTRAJAYA,SK Putrajaya Presint 16 (2)
+9,134,SR,W / P PUTRAJAYA,SK Putrajaya Presint 11 (2)
+9,135,SR,W / P PUTRAJAYA,SK Putrajaya Presint 18 (1)
+,,,,
+,,,,
+,,,,
+,,,,
